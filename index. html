@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head><title>trial</title></head>
+<body>
+<td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+<h2> Heading on first column </h2>
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <td>Jill</td>
+    <td>Eve</td>
+  </tr>
+  <tr>
+    <th>Lastname</th>
+    <td>Smith</td>
+    <td>Jackson</td>
+  </tr>
+  <tr>
+    <th>Age</th>
+    <td>94</td>
+    <td>50</td>
+  </tr>
+</table>
+
+
+<h2>Adding Video</h2>
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=0&mute=0">
+</iframe>
+
+<h2>Adding Image from folder</h2>
+<img src="/images/Bill9.jpeg" alt="RandomPic" style="width:300px">
+
+  
+</body>
+</html>
